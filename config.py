@@ -1,0 +1,5 @@
+PROMPTS_DIR = 'prompts'
+JAILBREAK_PROMPTS_FILE = 'jailbreak_prompts_2023_12_25.csv'
+REGULAR_PROMPTS_FILE = 'regular_prompts_2023_12_25.csv'
+FORBIDDEN_QUESTIONS_FILE = 'forbidden_question_set.csv'
+MODEL_DIR = './results'
